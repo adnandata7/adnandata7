@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Adnan Riyaz! 👋  
 
-<!--
-**adnandata7/adnandata7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Enthusiast | Data Science | Machine Learning | AI
 
-Here are some ideas to get you started:
+🔍 Passionate about Artificial Intelligence, Deep Learning, and Predictive Analytics, with a keen interest in solving real-world problems using data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Currently working on Machine Learning projects, including:
+
+Credit Card Fraud Detection 💳 – Identifying fraudulent transactions using classification models.
+
+Diamond Price Prediction 💎 – Predicting diamond prices with high accuracy using regression models.
+
+Plant Disease Detection 🌿 – Leveraging image processing for early disease diagnosis in plants.
+
+💡 Exploring Generative AI, Digital Marketing Analytics, and Advanced Deep Learning Techniques to build innovative solutions.
+
+🎓 B.Tech in Computer Science & Engineering | AKTU
+
+📚 Constantly learning, experimenting, and sharing knowledge to contribute to the tech community.
+
+Let’s connect and collaborate on exciting projects! 🚀
+
+
+
+## 🔧 Technologies & Tools  
+- Python, TensorFlow, Scikit-Learn  
+- Machine Learning, Deep Learning  
+- Data Analysis & Visualization  
+
+## 📌 Featured Projects  
+🔹 [Plant Disease Detection 🌿]
+🔹 [Credit Card Fraud Detection 💳]  
+🔹 [Diamond Price Prediction 💎] 
+
+💬 **Let's connect!**  
+📧 Email: adnanriyaz@example.com  
+[LinkedIn](https://linkedin.com/in/adnan-riyaz) | [GitHub](https://github.com/adnandata7)  
