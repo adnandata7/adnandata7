@@ -1,37 +1,86 @@
-# Hi, I'm Adnan Riyaz! 👋  
+<h1 align="center"> Hi there 👋,<br> I'm Adnan Riyaz! </h1>
 
-🚀 Tech Enthusiast | Data Science | Machine Learning | AI
+<p align="center">
+  <a href="https://github.com/adnandata7"><img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/datascientist-adnan/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:adnankhan.aknn405@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+</p>
 
-🔍 Passionate about Artificial Intelligence, Deep Learning, and Predictive Analytics, with a keen interest in solving real-world problems using data-driven solutions.
+---
 
-📊 Currently working on Machine Learning projects, including:
-
-Credit Card Fraud Detection 💳 – Identifying fraudulent transactions using classification models.
-
-Diamond Price Prediction 💎 – Predicting diamond prices with high accuracy using regression models.
-
-Plant Disease Detection 🌿 – Leveraging image processing for early disease diagnosis in plants.
-
-💡 Exploring Generative AI, Digital Marketing Analytics, and Advanced Deep Learning Techniques to build innovative solutions.
-
-🎓 B.Tech in Computer Science & Engineering | AKTU
-
-📚 Constantly learning, experimenting, and sharing knowledge to contribute to the tech community.
-
-Let’s connect and collaborate on exciting projects! 🚀
+<p align="center">
+  <em>"I'm Adnan, a curious tech enthusiast with a passion for data science, programming, and developing innovative solutions. Currently pursuing B.Tech in CSE at AKTU."
 
 
 
-## 🔧 Technologies & Tools  
-- Python, TensorFlow, Scikit-Learn  
-- Machine Learning, Deep Learning  
-- Data Analysis & Visualization  
 
-## 📌 Featured Projects  
-🔹 [Plant Disease Detection 🌿]
-🔹 [Credit Card Fraud Detection 💳]  
-🔹 [Diamond Price Prediction 💎] 
 
-💬 **Let's connect!**  
-📧 Email: adnanriyaz@example.com  
-[LinkedIn](https://linkedin.com/in/adnan-riyaz) | [GitHub](https://github.com/adnandata7)  
+
+
+You said:
+.</em>
+</p>
+
+---
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="40%" height="auto" />
+
+### 👨‍💻 &nbsp;**About Me**
+
+## 🚀 About Me  
+💡 Tech Enthusiast | Data Science | Machine Learning | AI  
+🔍 Passionate about **Artificial Intelligence, Deep Learning & Predictive Analytics**  
+📊 Working on **real-world ML projects**
+💡 Exploring **Generative AI, Digital Marketing Analytics & Advanced Deep Learning Techniques**  
+🎓 **B.Tech in Computer Science & Engineering | AKTU**  
+📚 Always learning, experimenting, and building innovative solutions.  
+
+---
+
+### 🛠 &nbsp;**Tech Stack**
+<p>
+	
+- 🌐 &nbsp;**Frontend Development:**
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+- 🗄 &nbsp;**Database Technologies:**
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+
+
+  
+- 💻 &nbsp;**Languages:**
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
+
+
+
+- 🔧 &nbsp;**Technologies:**
+ 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+- 📊 &nbsp;**Data Visualization & Analysis:**
+  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn)
+
+</p>
+<br />
+
+---
+
+ ### 📈 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adnandata7&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adnandata7&theme=radical" />
+</p>
+
+---
