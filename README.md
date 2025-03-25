@@ -50,27 +50,33 @@ You said:
 
 
 
-  
 - 💻 &nbsp;**Languages:**
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 
-
-
 - 🔧 &nbsp;**Technologies:**
- 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 - 📊 &nbsp;**Data Visualization & Analysis:**
   ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn)
+
+ - 🤖 &nbsp;**Machine Learning:**  
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn)  
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)  
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)  
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)  
+  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)  
+
+- 🧠 &nbsp;**Deep Learning:**  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)  
+
 
 </p>
 <br />
