@@ -10,15 +10,7 @@
 
 <p align="center">
   <em>"I'm Adnan, a curious tech enthusiast with a passion for data science, programming, and developing innovative solutions. Currently pursuing B.Tech in CSE at AKTU."
-
-
-
-
-
-
-
-You said:
-.</em>
+</em>
 </p>
 
 ---
@@ -26,8 +18,7 @@ You said:
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="40%" height="auto" />
 
 ### 👨‍💻 &nbsp;**About Me**
-
-## 🚀 About Me  
+ 
 💡 Tech Enthusiast | Data Science | Machine Learning | AI  
 🔍 Passionate about **Artificial Intelligence, Deep Learning & Predictive Analytics**  
 📊 Working on **real-world ML projects**
@@ -63,19 +54,19 @@ You said:
   ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 
- - 🤖 &nbsp;**Machine Learning:**  
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn)  
-  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)  
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)  
+- 🤖 &nbsp;**Machine Learning:** &nbsp; ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn) 
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy) 
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) 
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib) 
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn) 
   ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)  
 
-- 🧠 &nbsp;**Deep Learning:**  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  
+- 🧠 &nbsp;**Deep Learning:** &nbsp; ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) 
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras) 
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch) 
   ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)  
+
+ 
 
 
 </p>
